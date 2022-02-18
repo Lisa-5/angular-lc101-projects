@@ -9,4 +9,7 @@ img {
 
 .photos {
    text-align: center;
+   border-style: solid;
+   border-color: blue;
+   border-width: medium;
 }
