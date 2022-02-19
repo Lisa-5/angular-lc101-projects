@@ -11,7 +11,7 @@ h3 {
 }
 
 img {
-    max-width: 15%;
+    max-width: 50%;
     height: auto;
     display: block;
     margin: auto;
@@ -20,3 +20,9 @@ img {
 .work {
     color:darkmagenta;
 }
+
+h1 {
+    text-align: center;
+    color:limegreen;
+}
+
